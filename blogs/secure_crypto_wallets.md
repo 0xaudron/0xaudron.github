@@ -21,7 +21,7 @@ A cold wallet is a wallet that stores your crypto offline, disconnected from the
 **Risk**: Low
 
 **Functionality**: Basic
-
+<br>
 **TODO:**
 
 - [ ]  Always purchase wallets from official site/vendors, fully sealed and not pre-owned.
@@ -46,6 +46,7 @@ A cold wallet is a wallet that stores your crypto offline, disconnected from the
 A hot wallet is a cryptocurrency wallet that is connected to the internet. It allows for quick and easy access to your crypto for sending, receiving, or trading. Common hot wallets include mobile apps, desktop wallets, and browser extensions like MetaMask, Brave Wallet, OKX etc.
 
 **Risk**: High
+
 **Functionality**: High
 
 <br>
@@ -82,6 +83,6 @@ Now the last and most important after is safety of **private key**. This is comm
 -  Inheritability: Plan for secure transfer to heirs in case of emergency
 -  Wipe devices securely if you ever export/import private keys
 
-Follow [0xaudron](https://x.com/0xaudron) for more!
+**Follow [0xaudron](https://x.com/0xaudron) for more!**
 <br>
 Adios!
