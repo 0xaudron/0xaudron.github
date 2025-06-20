@@ -2,6 +2,9 @@
 layout: page
 permalink: /blogs/secure_crypto_wallets/index.html
 title: Securing Crypto Wallets
+date: 2025-06-20
+image: https://i.redd.it/uhui99gjxm251.png
+
 ---
 
 ## First time ... using crypto wallet ? 
