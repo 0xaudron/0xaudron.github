@@ -46,18 +46,18 @@ A cold wallet is a wallet that stores your crypto offline, disconnected from the
 A hot wallet is a cryptocurrency wallet that is connected to the internet. It allows for quick and easy access to your crypto for sending, receiving, or trading. Common hot wallets include mobile apps, desktop wallets, and browser extensions like MetaMask, Brave Wallet, OKX etc.
 
 **Risk**: High
-
 **Functionality**: High
 
+<br>
 **TODO:**
 
-- [ ]  Use wallets, by firstly verifying the official and verified source
-- [ ]  Enable biometric lock, strong password, or PIN for app access
-- [ ]  Keep your OS, apps, and browser extensions updated regularly
-- [ ]  Regularly review wallet permissions and connected dApps
-- [ ]  Enable 2FA protection
-- [ ]  Always double-check URLs before transacting
-- [ ]  Avoid using wallets on public or shared Wi-Fi
+-  Use wallets, by firstly verifying the official and verified source
+-  Enable biometric lock, strong password, or PIN for app access
+-  Keep your OS, apps, and browser extensions updated regularly
+-  Regularly review wallet permissions and connected dApps
+-  Enable 2FA protection
+-  Always double-check URLs before transacting
+-  Avoid using wallets on public or shared Wi-Fi
 
 **Risk analysis :**
 
@@ -73,15 +73,15 @@ A hot wallet is a cryptocurrency wallet that is connected to the internet. It al
 
 Now the last and most important after is safety of **private key**. This is common for any crypto wallet you are using. If you don’t get it done right, let me help you fren!
 
-- [ ]  Never store private key in plain text
-- [ ]  Never share your private key or recovery phrase with anyone
-- [ ]  Store offline — never save it in cloud, email, notes apps, or screenshots
-- [ ]  Create multiple copies and store in separate secure locations
-- [ ]  If you think your key was exposed, move your funds to a new wallet
-- [ ]  Avoid typing or pasting your key into online or unknown websites
-- [ ]  Inheritability: Plan for secure transfer to heirs in case of emergency
-- [ ]  Wipe devices securely if you ever export/import private keys
+-  Never store private key in plain text
+-  Never share your private key or recovery phrase with anyone
+-  Store offline — never save it in cloud, email, notes apps, or screenshots
+-  Create multiple copies and store in separate secure locations
+-  If you think your key was exposed, move your funds to a new wallet
+-  Avoid typing or pasting your key into online or unknown websites
+-  Inheritability: Plan for secure transfer to heirs in case of emergency
+-  Wipe devices securely if you ever export/import private keys
 
 Follow [0xaudron](https://x.com/0xaudron) for more!
-
+<br>
 Adios!
