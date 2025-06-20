@@ -46,10 +46,12 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Publications
+  - title: Projects
     url: /projects/
   - title: Blogs
     url: /blogs/
+  - title: Request Audit
+    url: https://t.me/Oxaudron
 
 
 # --------------------------------------------------

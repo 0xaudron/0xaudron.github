@@ -14,12 +14,6 @@ title: Blogs
 
 <br>
 
-## Leave a Message 欢迎留言
 
-<br>
-
-{% include disqus.html %} 
-
-<br>
 
 <br>
