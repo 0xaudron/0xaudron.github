@@ -9,14 +9,14 @@ layout: page
 Here is **0xaudron (浪人)**.<br>
 
 Web (2,3) Security (Pentester, Auditor) with 6+ years of cumulative experience in Cyber Security. My skillset ranges in smart contract auditing, web app / API, android app security. 
-
+<br>
 **Ecosystem** :  EVM, SVM, Stellar, Chromia and Cosmos.
 <br>
 **CVEs Found** : CVE-2023-6747, CVE-2023-41875, CVE-2023-40607, CVE-2024-24715 
 <br>
 **Languages** : Solidity, Rust, Golang, Python, JS
-
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **[Telegram](https://t.me/Oxaudron)**
+<br>
+If you are interested in any aspect of me, I am always open to discussions and collaborations.<br> Feel free to reach out to me at — **[Telegram](https://t.me/Oxaudron)**
 
 ---
 
@@ -30,6 +30,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Blogs
 
+- [First time... using crypto wallet ?](https://0xaudron.xyz/blogs/secure_crypto_wallets)
 
 
 
