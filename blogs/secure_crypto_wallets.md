@@ -3,10 +3,10 @@ layout: page
 permalink: /blogs/secure_crypto_wallets/index.html
 title: Securing Crypto Wallets
 date: 2025-06-20
+description: Learn how to securely use your crypto wallets, with best practices for cold and hot wallets and private key management.
 image: https://i.redd.it/uhui99gjxm251.png
 
 ---
-
 ## First time ... using crypto wallet ? 
 <img src="https://i.redd.it/uhui99gjxm251.png" width="600" height="500">
 <br><br>
