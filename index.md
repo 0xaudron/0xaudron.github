@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://0xaudron/0xaudron.png" class="floatpic">
+<!-- <img src="https://0xaudron/0xaudron.png" class="floatpic"> -->
 
 Here is **0xaudron (浪人)**.<br>
 
