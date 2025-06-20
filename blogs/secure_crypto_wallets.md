@@ -5,7 +5,7 @@ title: Securing Crypto Wallets
 ---
 
 ## First time ... using crypto wallet ? 
-<img src="images/first_time.png" width="600" height="500">
+<img src="https://i.redd.it/uhui99gjxm251.png" width="600" height="500">
 <br>
 So it’s your first time … using the crypto wallet ? Well then I’ll love to assure you that it won’t be your last. But for that you need to have proper hygiene and responsible usage — ensuring security, by implementing best practices!
 
