@@ -4,17 +4,20 @@
 
 <p>{{ site.owner.bio }}</p>
 
-{% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>{% endif %}
+{% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><img width="17" height="17" src="https://img.icons8.com/ios-filled/50/new-post.png" alt="email"/> Email</a></p>{% endif %}
 
 {% if site.owner.cv %}<p style="text-indent:0;"><a href="{{ site.owner.cv }}"><img src="https://caihanlin.com/images/logo/icons8-cv-100.png" width="17" height="17"></i> My CV</a></p>{% endif %}
 
-{% if site.owner.twitter %}<p style="text-indent:0;"><a href="https://x.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i> X </a></p>{% endif %}
+
+{% if site.owner.twitter %}<p style="text-indent:0;"><a href="https://x.com/{{ site.owner.twitter }}"><img width="17" height="17" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="X(Twitter)"/> X </a></p>{% endif %}
+
 
 {% if site.owner.twitter %}<p style="text-indent:0;"><a href="https://t.me/{{ site.owner.telegram }}"><img width="17" height="17" src="https://img.icons8.com/ios-filled/50/telegram-app.png" alt="telegram-app"/> Telegram </a></p>{% endif %}
+
 
 {% if site.owner.linkedin %}<p style="text-indent:0;"><a href="https://linkedin.com/in/{{ site.owner.linkedin }}"><i class="icon-linkedin"></i> LinkedIn</a></p>{% endif %}
 
 
-{% if site.owner.github %}<p style="text-indent:0;"><a href="https://github.com/{{ site.owner.github }}"><i class="icon-github"></i> Github</a></p>{% endif %}
+{% if site.owner.github %}<p style="text-indent:0;"><a href="https://github.com/{{ site.owner.github }}"><img width="17" height="17" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/> Github</a></p>{% endif %}
 
 
