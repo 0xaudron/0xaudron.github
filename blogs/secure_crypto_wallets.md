@@ -24,12 +24,12 @@ A cold wallet is a wallet that stores your crypto offline, disconnected from the
 <br>
 **TODO:**
 
-- [ ]  Always purchase wallets from official site/vendors, fully sealed and not pre-owned.
-- [ ]  Store multiple offline copies of secret keys/phrases in separate secure locations
-- [ ]  Be cautious of phishing attempts, especially related to “wallet support”. Never reveal any private information.
-- [ ]  Keep your wallet’s firmware up to date from official sources.
-- [ ]  Perform test restores of your wallet on a fresh device to ensure the backup works.
-- [ ]  If not using the wallet for a long time, **test periodically** that it's accessible.
+- Always purchase wallets from official site/vendors, fully sealed and not pre-owned.
+- Store multiple offline copies of secret keys/phrases in separate secure locations
+- Be cautious of phishing attempts, especially related to “wallet support”. Never reveal any private information.
+- Keep your wallet’s firmware up to date from official sources.
+- Perform test restores of your wallet on a fresh device to ensure the backup works.
+- If not using the wallet for a long time, **test periodically** that it's accessible.
 
 **Risk analysis:**
 
@@ -85,4 +85,4 @@ Now the last and most important after is safety of **private key**. This is comm
 
 **Follow [0xaudron](https://x.com/0xaudron) for more!**
 <br>
-Adios!
+**Adios!**
