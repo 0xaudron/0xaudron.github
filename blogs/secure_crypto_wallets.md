@@ -23,9 +23,10 @@ The very first fundamental thing is — **which wallet are you intending to use?
 
 A cold wallet is a wallet that stores your crypto offline, disconnected from the internet. Examples include hardware wallets (like Ledger or Trezor) and paper wallets. These are used for long-term storage and are considered much more secure.
 
-**Risk**: Low
+**Risk**: High
 
-**Functionality**: Basic
+**Functionality**: High
+
 <br>
 **TODO:**
 
@@ -77,7 +78,7 @@ A hot wallet is a cryptocurrency wallet that is connected to the internet. It al
 
 ---
 
-Now the last and most important after is safety of **private key**. This is common for any crypto wallet you are using. If you don’t get it done right, let me help you fren!
+Now the last and most important after is safety of **PRIVATE KEY**. This is common for any crypto wallet you are using. If you don’t get it done right, let me help you fren!
 
 -  Never store private key in plain text
 -  Never share your private key or recovery phrase with anyone
