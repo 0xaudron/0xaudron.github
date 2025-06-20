@@ -6,9 +6,9 @@ layout: page
 
 <!-- <img src="https://0xaudron/0xaudron.png" class="floatpic"> -->
 
-Here is **0xaudron (浪人)**.<br>
-
-Web (2,3) Security (Pentester, Auditor) with 6+ years of cumulative experience in Cyber Security. My skillset ranges in smart contract auditing, web app / API, android app security. 
+Here is **0xaudron (浪人)**
+<br>
+**Web (2,3) Security (Pentester, Auditor)** with 6+ years of cumulative experience in Cyber Security. My skillset ranges in smart contract auditing, web app / API, android app security. 
 <br><br>
 **Ecosystem** :  EVM, SVM, Stellar, Chromia and Cosmos.
 <br>
