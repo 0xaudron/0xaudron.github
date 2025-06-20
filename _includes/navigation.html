@@ -7,7 +7,15 @@
 		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 		    <ul>
 		        {% for link in site.links %}
-            <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
+		          {% if link.url contains '://' %}
+		            <li>
+		              <a href="{{ link.url }}" target="_blank" rel="noopener" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a>
+		            </li>
+		          {% else %}
+		            <li>
+		              <a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a>
+		            </li>
+		          {% endif %}
 		        {% endfor %}
 		    </ul>
 		</nav>
