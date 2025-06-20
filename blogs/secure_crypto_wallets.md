@@ -89,6 +89,6 @@ Now the last and most important after is safety of **PRIVATE KEY**. This is comm
 -  Inheritability: Plan for secure transfer to heirs in case of emergency
 -  Wipe devices securely if you ever export/import private keys
 
-**Follow [0xaudron](https://x.com/0xaudron) for more!**
+**Follow <a href="https://x.com/0xaudron">0xaudron</a> for more!**
 <br>
 **Adios!**
