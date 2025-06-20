@@ -24,7 +24,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - Crypto Wallet Security - Extension, Web, MCP, Hardware
 - DeFi - AMM, Lending, Borrowing, Perpetuals
 - Blockchain Infrastructure (on-chain & off-chain)
-- Supply chain research
+- Supply chain attacks and defenses
 
 ---
 

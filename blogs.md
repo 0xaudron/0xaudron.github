@@ -9,7 +9,7 @@ title: Blogs
 
 ### 2025
 
-- [First time ?](https://0xaudron.com/blogs/crypto_wallet_first_time)
+- [First time ?](https://0xaudron.xyz/blogs/secure_crypto_wallets)
 
 
 <br>
