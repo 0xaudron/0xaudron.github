@@ -16,7 +16,7 @@ Web (2,3) Security (Pentester, Auditor) with 6+ years of cumulative experience i
 <br>
 **Languages** : Solidity, Rust, Golang, Python, JS
 <br><br>
-If you are interested in any aspect of me, I am always open to discussions and collaborations.<br> Feel free to reach out to me at — **[Telegram](@t.me/Oxaudron)**
+If you are interested in any aspect of me, I am always open to discussions and collaborations.<br> Feel free to reach out to me at — **[Telegram](////t.me/Oxaudron)**
 
 ---
 
